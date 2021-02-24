@@ -1,2 +1,2 @@
 # Aprendendo-Python
- Projetos em Python
+ Aqui inicio minha jornada de aprendizado em Python.
