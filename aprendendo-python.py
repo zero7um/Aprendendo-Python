@@ -31,8 +31,15 @@ print(lista2)
 lista_kenzie = [1, 'luan', 2, 'Wesley', True, 'Sarah']
 print(lista_kenzie)
 
+#Condições
 
-variavel_1 = 3
+if 2 > 3:
+    print('é maior')
+else: print('não é maior')
+
+
+variavel_1 = 5
 variavel_2 = 4
 if variavel_1 < variavel_2:
-    print('O valor na variavel 1 é menor')
+    print ("O valor da variavel 1 é menor")
+else: print ("O valor da variável 1 é maior")
