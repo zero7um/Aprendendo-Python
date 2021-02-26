@@ -38,8 +38,14 @@ if 2 > 3:
 else: print('não é maior')
 
 
-variavel_1 = 5
-variavel_2 = 4
+# Usando variáveis
+
+variavel_1 = 8
+variavel_2 = 8
 if variavel_1 < variavel_2:
     print ("O valor da variavel 1 é menor")
 else: print ("O valor da variável 1 é maior")
+if variavel_1 == variavel_2:
+    print ("as variáveis são iguais")
+
+
